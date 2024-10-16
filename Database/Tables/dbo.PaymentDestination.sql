@@ -10,3 +10,7 @@
 )
 ON [PRIMARY]
 GO
+
+ALTER TABLE [dbo].[PaymentDestination]
+  ADD CONSTRAINT [FK_PaymentDestination_PaymentDestParentId] FOREIGN KEY ([ParentId]) REFERENCES [dbo].[PaymentDestination] ([Id])
+GO

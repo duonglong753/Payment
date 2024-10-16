@@ -10,3 +10,7 @@
 )
 ON [PRIMARY]
 GO
+
+ALTER TABLE [dbo].[PaymentTransaction]
+  ADD CONSTRAINT [FK_PaymentTransaction_Payment_PaymentId] FOREIGN KEY ([PaymentId]) REFERENCES [dbo].[Payment] ([Id])
+GO

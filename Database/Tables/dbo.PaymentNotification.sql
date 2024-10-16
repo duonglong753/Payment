@@ -14,3 +14,7 @@
 )
 ON [PRIMARY]
 GO
+
+ALTER TABLE [dbo].[PaymentNotification]
+  ADD CONSTRAINT [FK_PaymentNotification_Payment_PaymentId] FOREIGN KEY ([PaymentId]) REFERENCES [dbo].[Payment] ([Id])
+GO
