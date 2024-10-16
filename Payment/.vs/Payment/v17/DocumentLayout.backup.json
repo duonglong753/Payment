@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\Documents\\Payment\\Payment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\core\\Payment.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC9F2017-082B-434C-9B66-3E7F4AC8D2A9}|src\\shared\\Payment.Ultils\\Payment.Ultils.csproj|e:\\documents\\payment\\payment\\src\\shared\\payment.ultils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9F2017-082B-434C-9B66-3E7F4AC8D2A9}|src\\shared\\Payment.Ultils\\Payment.Ultils.csproj|solutionrelative:src\\shared\\payment.ultils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2548E89B-664A-4BE4-AC5B-6888C5B88911}|src\\pre\\Payment.Persistence\\Payment.Persistence.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2548E89B-664A-4BE4-AC5B-6888C5B88911}|src\\pre\\Payment.Persistence\\Payment.Persistence.csproj|solutionrelative:src\\pre\\payment.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,14 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Class1.cs",
               "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Class1.cs",
               "RelativeToolTip": "src\\core\\Payment.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:13:37.686Z"
+              "WhenOpened": "2024-10-16T09:13:37.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -47,8 +61,47 @@
         },
         {
           "DockedHeight": 80,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\shared\\Payment.Ultils\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\shared\\Payment.Ultils\\Class1.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\shared\\Payment.Ultils\\Class1.cs",
+              "RelativeToolTip": "src\\shared\\Payment.Ultils\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:23:35.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Persistence\\Class1.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Persistence\\Class1.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:22:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Class1.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Class1.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:22:07.86Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
