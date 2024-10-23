@@ -3,9 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Payment.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/payment")]
     [ApiController]
     public class PaymentsController : ControllerBase
     {
+
     }
 }
