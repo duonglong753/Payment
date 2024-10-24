@@ -1,0 +1,10 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+CREATE PROCEDURE [dbo].[sproc_MerchantDeleteById]
+@Id NVARCHAR(50)=''
+AS 
+BEGIN
+  DELETE FROM dbo.Merchant
+  WHERE Id = @Id
+END 
+GO
