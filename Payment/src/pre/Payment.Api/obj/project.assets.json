@@ -1532,6 +1532,19 @@
         "runtime": {
           "bin/placeholder/Payment.Domain.dll": {}
         }
+      },
+      "Payment.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Payment.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Payment.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Payment.Persistence.dll": {}
+        }
       }
     }
   },
@@ -5133,12 +5146,18 @@
       "type": "project",
       "path": "../../core/Payment.Domain/Payment.Domain.csproj",
       "msbuildProject": "../../core/Payment.Domain/Payment.Domain.csproj"
+    },
+    "Payment.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../../infras/Payment.Persistence/Payment.Persistence.csproj",
+      "msbuildProject": "../../infras/Payment.Persistence/Payment.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.18",
       "Payment.Application >= 1.0.0",
+      "Payment.Persistence >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -5176,6 +5195,9 @@
           "projectReferences": {
             "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Payment.Application.csproj": {
               "projectPath": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Payment.Application.csproj"
+            },
+            "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Persistence\\Payment.Persistence.csproj": {
+              "projectPath": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Persistence\\Payment.Persistence.csproj"
             }
           }
         }
