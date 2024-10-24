@@ -12,6 +12,8 @@
   [PaidAmount] [decimal](19, 2) NULL,
   [PaymentStatus] [nvarchar](20) NULL,
   [PaymentLastMsg] [nvarchar](250) NULL,
+  [CreatedBy] [nvarchar](250) NULL,
+  [CreatedAt] [datetime] NULL,
   CONSTRAINT [PK_Payment] PRIMARY KEY CLUSTERED ([Id])
 )
 ON [PRIMARY]

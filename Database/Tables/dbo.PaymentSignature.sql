@@ -5,6 +5,7 @@
   [SignDate] [datetime] NULL,
   [SignOwn] [nvarchar](50) NULL,
   [PaymentId] [nvarchar](50) NULL,
+  [IsValid] [bit] NULL,
   CONSTRAINT [PK_PaymentSignature] PRIMARY KEY CLUSTERED ([Id])
 )
 ON [PRIMARY]
