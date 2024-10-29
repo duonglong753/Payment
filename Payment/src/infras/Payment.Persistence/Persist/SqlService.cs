@@ -30,22 +30,27 @@ namespace Payment.Persistence.Persist
         {
             int result = -1;
             string message = string.Empty;
-            try 
+
+            try
             {
-                using (SqlConnection connection = new SqlConnection(connectionString)) {
-                    using (SqlCommand command = connection.CreateCommand()) { 
-                        command.CommandType = CommandType.StoredProcedure;
-                        command.CommandTimeout = 900;
-                        command.Parameters.AddRange(parameters);
-                        connection.Open();
-                        result = command.ExecuteNonQuery();
-                        connection.Close();
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    using (SqlCommand cmd = new SqlCommand(sqlObjectName, conn))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.CommandTimeout = 900;
+                        cmd.Parameters.AddRange(parameters);
+                        conn.Open();
+                        result = cmd.ExecuteNonQuery();
+                        conn.Close();
                     }
                 }
-            } catch(Exception ex) 
+            }
+            catch (Exception ex)
             {
                 message = ex.Message;
             }
+
             return (result, message);
         }
 
