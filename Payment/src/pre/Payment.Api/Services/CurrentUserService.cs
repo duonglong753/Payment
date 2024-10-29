@@ -1,4 +1,5 @@
-﻿using Payment.Application.Interface;
+﻿using Microsoft.AspNetCore.Http;
+using Payment.Application.Interface;
 using System.Security.Claims;
 
 namespace Payment.Api.Services
@@ -11,5 +12,7 @@ namespace Payment.Api.Services
             this._contextAccessor = httpContextAccessor;
         }
         string? ICurrentUserService.UserId => _contextAccessor?.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+        string? ICurrentUserService.IpAddress => _contextAccessor?.HttpContext?.Connection?.LocalIpAddress?.ToString();
     }
 }
