@@ -70,7 +70,7 @@ namespace Payment.Api.Controllers
         ///     {
         ///         "MerchantName" : "Website bán hàng A",
         ///         "MerchantWebLink" : "https://webbanhang.com",
-        ///         "MerchantIpnUrl" : "https://webbanhang.com/ipn",
+        ///         "MerchantInpUrl" : "https://webbanhang.com/ipn",
         ///         "MerchantReturnUrl" : "https://webbanhang.com/payment/return"
         ///     }
         /// 
@@ -78,7 +78,7 @@ namespace Payment.Api.Controllers
         [HttpPost]
         [ProducesResponseType(typeof(BaseResultWithData<MerchantDtos>), 200)]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
-        public async Task<IActionResult> Create([FromBody]CreateMerchant request)
+        public async Task<IActionResult> Create([FromBody] CreateMerchant request)
         {
             var response = new BaseResultWithData<MerchantDtos>();
             response = await _mediator.Send(request);
