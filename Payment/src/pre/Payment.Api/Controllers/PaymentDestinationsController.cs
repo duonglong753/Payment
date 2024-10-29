@@ -53,6 +53,24 @@ namespace Payment.Api.Controllers
             var response = new BaseResultWithData<PaymentDestinationDtos>();
             return Ok(response);
         }
+
+        /// <summary>
+        /// Create merchant
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
+        /// <remarks>
+        /// 
+        ///     POST /payment-destinations
+        ///     {
+        ///         "DesName" : "Cổng thanh toán VNPay",
+        ///         "DesShortName" : "VNPay Pay",
+        ///         "DesParentId" : null,
+        ///         "DesLogo" : "https://sandbox.vnpayment.vn/apis/assets/images/partner_deeplink.png",
+        ///         "SortIndex" : 0
+        ///     }
+        /// 
+        /// </remarks>
         [HttpPost]
         [ProducesResponseType(typeof(BaseResultWithData<PaymentDestinationDtos>), 200)]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
