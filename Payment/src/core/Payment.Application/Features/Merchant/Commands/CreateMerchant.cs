@@ -18,7 +18,7 @@ namespace Payment.Application.Features.Commands
     {
         public string? MerchantName { get; set; } = string.Empty;
         public string? MerchantWebLink { get; set; } = string.Empty;
-        public string? MerchantInpUrl { get; set; } = string.Empty;
+        public string? MerchantIpnUrl { get; set; } = string.Empty;
         public string? MerchantReturnUrl { get; set; } = string.Empty;
     }
     public class CreateMerchantHandler : IRequestHandler<CreateMerchant, BaseResultWithData<MerchantDtos>>
@@ -43,7 +43,7 @@ namespace Payment.Application.Features.Commands
                 {
                     new SqlParameter("@MerchantName", request.MerchantName ?? string.Empty),
                     new SqlParameter("@MerchantWebLink", request.MerchantWebLink?? string.Empty),
-                    new SqlParameter("@MerchantInpUrl", request.MerchantInpUrl ?? string.Empty),
+                    new SqlParameter("@MerchantIpnUrl", request.MerchantIpnUrl ?? string.Empty),
                     new SqlParameter("@MerchantReturnUrl", request.MerchantReturnUrl ?? string.Empty),
                     new SqlParameter("@InsertUser", currentUserService.UserId ?? string.Empty),
                     outputIdParam
