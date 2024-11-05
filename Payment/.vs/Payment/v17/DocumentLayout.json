@@ -3,20 +3,144 @@
   "WorkspaceRootPath": "E:\\Documents\\Payment\\Payment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\commands\\createpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\commands\\createpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\interface\\iconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\interface\\iconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\interface\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\interface\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\services\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\services\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|e:\\documents\\payment\\payment\\src\\infras\\payment.service\\vnpay\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|solutionrelative:src\\infras\\payment.service\\vnpay\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|e:\\documents\\payment\\payment\\src\\infras\\payment.service\\vnpay\\request\\vnpaypayrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|solutionrelative:src\\infras\\payment.service\\vnpay\\request\\vnpaypayrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\createmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\createmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\commands\\processvnpaypaymentreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\commands\\processvnpaypaymentreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\paymentdestinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\controllers\\paymentdestinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentdestination\\commands\\createpaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentdestination\\commands\\createpaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentdestination\\dtos\\paymentdestinationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentdestination\\dtos\\paymentdestinationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9F2017-082B-434C-9B66-3E7F4AC8D2A9}|src\\shared\\Payment.Ultils\\Payment.Ultils.csproj|e:\\documents\\payment\\payment\\src\\shared\\payment.ultils\\extensions\\objectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9F2017-082B-434C-9B66-3E7F4AC8D2A9}|src\\shared\\Payment.Ultils\\Payment.Ultils.csproj|solutionrelative:src\\shared\\payment.ultils\\extensions\\objectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\constants\\paymentconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\constants\\paymentconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E9BB0-39AE-4D80-8D64-CCC4995590B4}|src\\infras\\Payment.Persistence\\Payment.Persistence.csproj|e:\\documents\\payment\\payment\\src\\infras\\payment.persistence\\persist\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176E9BB0-39AE-4D80-8D64-CCC4995590B4}|src\\infras\\Payment.Persistence\\Payment.Persistence.csproj|solutionrelative:src\\infras\\payment.persistence\\persist\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\constants\\merchantconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\constants\\merchantconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\dtos\\merchantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\dtos\\merchantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|e:\\documents\\payment\\payment\\src\\infras\\payment.service\\vnpay\\response\\vnpaypayresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|solutionrelative:src\\infras\\payment.service\\vnpay\\response\\vnpaypayresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\queries\\getpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\queries\\getpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\dtos\\paymentreturndtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\dtos\\paymentreturndtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\dtos\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\dtos\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\constants\\paymenttransactioncontants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\constants\\paymenttransactioncontants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|e:\\documents\\payment\\payment\\src\\infras\\payment.service\\vnpay\\lib\\vnpaycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7103CA7C-83CF-4E03-953C-901584ABB005}|src\\infras\\Payment.Service\\Payment.Service.csproj|solutionrelative:src\\infras\\payment.service\\vnpay\\lib\\vnpaycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\interface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\interface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\dtos\\paymentlinkdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\dtos\\paymentlinkdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\updatemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\updatemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\setactivemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\setactivemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\deletemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\deletemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\base\\models\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\base\\models\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\paymentnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymenttransaction\\dtos\\paymenttransactiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentsignature\\dtos\\paymentsignaturedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentsignature\\dtos\\paymentsignaturedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,10 +175,6 @@
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentnotification\\commands\\createpaymentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|e:\\documents\\payment\\payment\\src\\pre\\payment.api\\controllers\\paymentdestinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557DC69E-7498-48EB-9E49-D73A1CE7B325}|src\\pre\\Payment.Api\\Payment.Api.csproj|solutionrelative:src\\pre\\payment.api\\controllers\\paymentdestinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentdestination\\commands\\updatepaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentdestination\\commands\\updatepaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,18 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentdestination\\commands\\deletepaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentdestination\\commands\\deletepaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentdestination\\commands\\createpaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentdestination\\commands\\createpaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\paymentdestination\\dtos\\paymentdestinationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\paymentdestination\\dtos\\paymentdestinationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\dtos\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\dtos\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\queries\\getmerchants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,22 +199,6 @@
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\queries\\getmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\createmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\createmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\updatemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\updatemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\deletemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\deletemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\dtos\\merchantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\dtos\\merchantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.domain\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,36 +211,12 @@
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\payment.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\merchant\\commands\\setactivemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\merchant\\commands\\setactivemerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\base\\models\\basepagingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\base\\models\\basepagingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\base\\models\\basepagingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\base\\models\\basepagingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\base\\models\\baseresultwithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\base\\models\\baseresultwithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\base\\models\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\base\\models\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\base\\models\\baseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\base\\models\\baseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\commands\\createpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\commands\\createpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\queries\\getpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\core\\payment.application\\features\\payment\\queries\\getpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5BFBF1-D618-434C-A0FD-2825A4BA6F9B}|src\\core\\Payment.Application\\Payment.Application.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.application\\features\\payment\\queries\\getpaymentbyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,16 +243,8 @@
       "RelativeMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\entities\\paymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|e:\\documents\\payment\\payment\\src\\core\\payment.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CEFF47-5C09-44AF-BFFC-394D59F00993}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176E9BB0-39AE-4D80-8D64-CCC4995590B4}|src\\infras\\Payment.Persistence\\Payment.Persistence.csproj|e:\\documents\\payment\\payment\\src\\infras\\payment.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176E9BB0-39AE-4D80-8D64-CCC4995590B4}|src\\infras\\Payment.Persistence\\Payment.Persistence.csproj|solutionrelative:src\\infras\\payment.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -198,7 +254,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 199,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -214,306 +270,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IConnectionService.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:18:08.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ISqlService.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\ISqlService.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Interface\\ISqlService.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\ISqlService.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Interface\\ISqlService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:06:17.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaymentTransactionDtos.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:13:45.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PaymentNotificationsController.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
-              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
-              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:50:51.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PaymentSignaturesController.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
-              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
-              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:11:33.955Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T08:12:19.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICurrentUserService.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Program.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Program.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:02:36.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PaymentTransactionsController.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
-              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
-              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:11:13.175Z",
+              "WhenOpened": "2024-10-30T10:16:30.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CreatePayment.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIAwwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:42:45.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VnpayConfig.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Config\\VnpayConfig.cs",
+              "RelativeDocumentMoniker": "src\\infras\\Payment.Service\\VnPay\\Config\\VnpayConfig.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Config\\VnpayConfig.cs",
+              "RelativeToolTip": "src\\infras\\Payment.Service\\VnPay\\Config\\VnpayConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:27:57.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VnpayPayRequest.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Request\\VnpayPayRequest.cs",
+              "RelativeDocumentMoniker": "src\\infras\\Payment.Service\\VnPay\\Request\\VnpayPayRequest.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Request\\VnpayPayRequest.cs",
+              "RelativeToolTip": "src\\infras\\Payment.Service\\VnPay\\Request\\VnpayPayRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:55:36.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateMerchant.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:07:57.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Services\\CurrentUserService.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:56:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PaymentsController.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentsController.cs",
               "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentsController.cs",
               "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:09:10.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MerchantsController.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
-              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
-              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IConnectionService.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Interface\\IConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:09:29.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T10:21:30.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PaymentSignatureDtos.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:46:57.864Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\appsettings.json",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\appsettings.json",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T09:04:57.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdatePaymentNotification.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ConnectionService.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Services\\ConnectionService.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Services\\ConnectionService.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Services\\ConnectionService.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Services\\ConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:00:58.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T09:56:05.403Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CreatePaymentNotification.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:00:32.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DeletePaymentNotification.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:00:45.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SetActivePaymentDestination.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:34:48.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DeletePaymentDestination.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:33:10.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "PaymentDestinationsController.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentDestinationsController.cs",
               "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentDestinationsController.cs",
               "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentDestinationsController.cs",
               "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentDestinationsController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAABBwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAE4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:10:52.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T08:33:12.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CreatePaymentDestination.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "MerchantsController.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\MerchantsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:32:37.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T03:44:10.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdatePaymentDestination.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ProcessVnpayPaymentReturn.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:32:50.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T04:53:04.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "PaymentDestinationDtos.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\DTOs\\PaymentDestinationDtos.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\DTOs\\PaymentDestinationDtos.cs",
               "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\DTOs\\PaymentDestinationDtos.cs",
               "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\DTOs\\PaymentDestinationDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:44:41.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:44:41.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PaymentDtos.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "CreatePaymentDestination.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:25:05.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:32:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SqlService.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Persistence\\Persist\\SqlService.cs",
+              "RelativeDocumentMoniker": "src\\infras\\Payment.Persistence\\Persist\\SqlService.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Persistence\\Persist\\SqlService.cs",
+              "RelativeToolTip": "src\\infras\\Payment.Persistence\\Persist\\SqlService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:44:31.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentReturnDtos.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentReturnDtos.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentReturnDtos.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentReturnDtos.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentReturnDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:17:03.611Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "GetMerchants.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:23:01.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetMerchantByQuery.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:22:32.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GetMerchant.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:21:56.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "MerchantDtos.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\DTOs\\MerchantDtos.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\DTOs\\MerchantDtos.cs",
@@ -521,38 +498,371 @@
               "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\DTOs\\MerchantDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:31:31.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:31:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ObjectExtensions.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\shared\\Payment.Ultils\\Extensions\\ObjectExtensions.cs",
+              "RelativeDocumentMoniker": "src\\shared\\Payment.Ultils\\Extensions\\ObjectExtensions.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\shared\\Payment.Ultils\\Extensions\\ObjectExtensions.cs",
+              "RelativeToolTip": "src\\shared\\Payment.Ultils\\Extensions\\ObjectExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:58:48.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VnpayPayResponse.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Response\\VnpayPayResponse.cs",
+              "RelativeDocumentMoniker": "src\\infras\\Payment.Service\\VnPay\\Response\\VnpayPayResponse.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Response\\VnpayPayResponse.cs",
+              "RelativeToolTip": "src\\infras\\Payment.Service\\VnPay\\Response\\VnpayPayResponse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:42:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentConstants.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\PaymentConstants.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Constants\\PaymentConstants.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\PaymentConstants.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Constants\\PaymentConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:09:24.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MerchantConstants.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\MerchantConstants.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Constants\\MerchantConstants.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\MerchantConstants.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Constants\\MerchantConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:19:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetPayment.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:02.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentDtos.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:25:05.487Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "PaymentTransactionContants.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\PaymentTransactionContants.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Constants\\PaymentTransactionContants.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\PaymentTransactionContants.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Constants\\PaymentTransactionContants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:12:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\Payment.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:10:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VnpayCompare.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Lib\\VnpayCompare.cs",
+              "RelativeDocumentMoniker": "src\\infras\\Payment.Service\\VnPay\\Lib\\VnpayCompare.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Service\\VnPay\\Lib\\VnpayCompare.cs",
+              "RelativeToolTip": "src\\infras\\Payment.Service\\VnPay\\Lib\\VnpayCompare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:16:04.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Interface\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:02:36.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentLinkDtos.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentLinkDtos.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentLinkDtos.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentLinkDtos.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\DTOs\\PaymentLinkDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:14:01.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SetActiveMerchant.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:13:40.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateMerchant.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:08:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "DeleteMerchant.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\DeleteMerchant.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\DeleteMerchant.cs",
               "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\DeleteMerchant.cs",
               "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\DeleteMerchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:08:09.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:08:09.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateMerchant.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\CreateMerchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Constants\\MessageConstants.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Constants\\MessageConstants.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Constants\\MessageConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:07:57.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T08:48:17.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:15:35.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentSignaturesController.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentSignaturesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:11:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentNotificationsController.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentNotificationsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:50:51.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaymentTransactionDtos.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentTransaction\\DTOs\\PaymentTransactionDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:13:45.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymentTransactionsController.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
+              "RelativeDocumentMoniker": "src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
+              "RelativeToolTip": "src\\pre\\Payment.Api\\Controllers\\PaymentTransactionsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:11:13.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentSignatureDtos.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentSignature\\DTOs\\PaymentSignatureDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:46:57.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdatePaymentNotification.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\UpdatePaymentNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:00:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreatePaymentNotification.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:00:32.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeletePaymentNotification.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentNotification\\Commands\\DeletePaymentNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:00:45.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SetActivePaymentDestination.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\SetActivePaymentDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:34:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeletePaymentDestination.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\DeletePaymentDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:33:10.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdatePaymentDestination.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\PaymentDestination\\Commands\\UpdatePaymentDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:32:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetMerchants.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:23:01.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetMerchantByQuery.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchantByQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:22:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetMerchant.cs",
+              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
+              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
+              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Queries\\GetMerchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:21:56.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "Merchant.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\Merchant.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\Merchant.cs",
@@ -560,25 +870,11 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\Merchant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:08:08.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:08:08.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UpdateMerchant.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\UpdateMerchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:08:17.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 50,
               "Title": "Payment.Domain.csproj",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Payment.Domain.csproj",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Payment.Domain.csproj",
@@ -586,12 +882,11 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Payment.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T04:05:20.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:05:20.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 51,
               "Title": "Payment.Application.csproj",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Payment.Application.csproj",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Payment.Application.csproj",
@@ -599,38 +894,11 @@
               "RelativeToolTip": "src\\core\\Payment.Application\\Payment.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T06:41:22.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T06:41:22.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SetActiveMerchant.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Merchant\\Commands\\SetActiveMerchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:13:40.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BaseResultWithData.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseResultWithData.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Base\\Models\\BaseResultWithData.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseResultWithData.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Base\\Models\\BaseResultWithData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:22:23.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 53,
               "Title": "BasePagingData.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BasePagingData.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Base\\Models\\BasePagingData.cs",
@@ -638,38 +906,11 @@
               "RelativeToolTip": "src\\core\\Payment.Application\\Base\\Models\\BasePagingData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:23:23.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T10:23:23.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BaseError.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseError.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Base\\Models\\BaseError.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseError.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Base\\Models\\BaseError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:21:27.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BaseResult.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Base\\Models\\BaseResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:15:35.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 52,
               "Title": "BasePagingQuery.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Base\\Models\\BasePagingQuery.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Base\\Models\\BasePagingQuery.cs",
@@ -677,12 +918,11 @@
               "RelativeToolTip": "src\\core\\Payment.Application\\Base\\Models\\BasePagingQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:13:59.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T10:13:59.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 55,
               "Title": "GetPayments.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayments.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayments.cs",
@@ -690,12 +930,11 @@
               "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T06:43:37.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T06:43:37.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 54,
               "Title": "GetPaymentByQuery.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPaymentByQuery.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPaymentByQuery.cs",
@@ -703,38 +942,11 @@
               "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPaymentByQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T06:43:15.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T06:43:15.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "GetPayment.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Queries\\GetPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T06:43:02.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "CreatePayment.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
-              "RelativeToolTip": "src\\core\\Payment.Application\\Features\\Payment\\Commands\\CreatePayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T06:42:45.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 56,
               "Title": "PaymentTransaction.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\PaymentTransaction.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\PaymentTransaction.cs",
@@ -742,12 +954,11 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\PaymentTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:52:15.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:52:15.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 57,
               "Title": "PaymentSignature.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\PaymentSignature.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\PaymentSignature.cs",
@@ -755,12 +966,11 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\PaymentSignature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:36:31.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:36:31.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 58,
               "Title": "PaymentNotification.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\PaymentNotification.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\PaymentNotification.cs",
@@ -768,12 +978,11 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\PaymentNotification.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:28:49.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:28:49.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 59,
               "Title": "PaymentDestination.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\PaymentDestination.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\PaymentDestination.cs",
@@ -781,25 +990,11 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\PaymentDestination.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:25:24.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:25:24.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Entities\\Payment.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Entities\\Payment.cs",
-              "RelativeToolTip": "src\\core\\Payment.Domain\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:10:43.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "BaseAuditableEntity.cs",
               "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\core\\Payment.Domain\\Common\\BaseAuditableEntity.cs",
               "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Common\\BaseAuditableEntity.cs",
@@ -807,21 +1002,7 @@
               "RelativeToolTip": "src\\core\\Payment.Domain\\Common\\BaseAuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T04:06:32.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Persistence\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\infras\\Payment.Persistence\\Class1.cs",
-              "ToolTip": "E:\\Documents\\Payment\\Payment\\src\\infras\\Payment.Persistence\\Class1.cs",
-              "RelativeToolTip": "src\\infras\\Payment.Persistence\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:28:19.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T04:06:32.725Z"
             }
           ]
         },
